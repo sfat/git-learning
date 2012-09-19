@@ -1,4 +1,4 @@
 git-learning
 ============
 
-hello
+hello version 1.0
