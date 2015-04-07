@@ -1,6 +1,8 @@
 aaaaa
 bbbb
-ccc
+cc
+test-comment
+c
 dddd
 eeee
 fff
